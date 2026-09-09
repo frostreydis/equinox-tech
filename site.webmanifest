@@ -1,0 +1,20 @@
+{
+  "name": "Equinox Tech",
+  "short_name": "Equinox Tech",
+  "description": "Slovakia-based IT company: custom software development, data engineering, cloud & DevOps, and technology consulting.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0b0f",
+  "theme_color": "#0a0b0f",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

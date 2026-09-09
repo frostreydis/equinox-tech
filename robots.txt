@@ -1,0 +1,7 @@
+# robots.txt for https://equinox.tech/
+# Equinox Tech s. r. o.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://equinox.tech/sitemap.xml
